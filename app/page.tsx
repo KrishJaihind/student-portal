@@ -9,7 +9,7 @@ export default function Home() {
       <div className="mx-w-xl mx-auto px-6 py-16 text-center">
         <h2 className="text-3xl font-bold text-white-900 mb-3">Add more students </h2>
         <p className="text-slate-500 mb-8">Add more students using this form</p>
-        <Link href="/" className="inline-bock rounded-lg bg-sky-600 py-3 text-sm font-semibold text-white hover:bg-sky-700 px-4">
+        <Link href="/" className="inline-block rounded-lg bg-sky-600 py-3 text-sm font-semibold text-white hover:bg-sky-700 px-4">
           Add Student
         </Link>
       </div>
@@ -29,4 +29,4 @@ export default function Home() {
       </div>
     </main>
   );
-}
+} 
