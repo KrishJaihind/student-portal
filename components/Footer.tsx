@@ -5,7 +5,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-10 text-center">
 
         <h2 className="text-2xl font-bold">
-          New Generation High School
+          New Generation High School 
         </h2>
 
         <p className="mt-3 text-gray-300">
@@ -13,7 +13,7 @@ export default function Footer() {
         </p>
 
         <p className="mt-5 text-sm text-gray-400">
-          © 2026 New Generation High School.
+          © 2026 New Generation High School .
           All Rights Reserved.
         </p>
 
